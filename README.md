@@ -7,7 +7,7 @@
   The app is a basic way of me learning the fundementals of Kotlin and the context of the Android studio IED
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/nPkN4QZEACA)
 
 # Development Environment
 - Android Studio: A Ied designed to be able to make apps for android phones
